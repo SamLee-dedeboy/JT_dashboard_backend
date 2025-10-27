@@ -1,0 +1,50 @@
+[
+  {
+    "code_name": "Habitat changes",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "operable gates",
+    "parent": "Structure (physical geography)"
+  },
+  {
+    "code_name": "Local surface water supply",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Native species",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Native fish and native fish health",
+    "parent": "Native species"
+  },
+  {
+    "code_name": "Habitat changes",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Human Dimensions",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Urbanization",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "consumerism",
+    "parent": "Urbanization"
+  },
+  {
+    "code_name": "Salinity Sources",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "tidal influence",
+    "parent": "Salinity Sources"
+  },
+  {
+    "code_name": "Local surface water supply",
+    "parent": "N/A"
+  }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Business As Usual",
+        "number": "1",
+        "narrative": "In this future, things continue much like they currently are and along current trends. The Freshwater Delta / X-2 standard is maintained (as much as possible) into the future. There is likely an increased use of temporary salinity barriers, more temporary urgency change petitions (TCUPs), and exceptions to water quality standards during droughts.",
+        "primary_research_importance": "Baseline scenario from which all other scenarios/adaptations can be compared",
+        "adaptation": "Status Quo; no intentional adaptation",
+        "key_drivers": "Current Trends: D-1641 X2 Standard, salinity barriers, TUCPs, tiered water rights",
+        "image_credit": "IMAGE: Andrew Innerarity / California Department of Water Resources",
+        "key_questions": [
+            "How long can the current ways of maintaining water quality be maintained into the future?",
+            "What are the thresholds at which this system “breaks down” and requires change?",
+            "How much more water is required over time (due to sea level rise, changing precipitation patterns, increasing heat and drought severity) to maintain current water quality standards?"
+        ]
+    },
+    {
+        "name": "Tunnel Vision",
+        "number": "2",
+        "narrative": "After decades of debate and controversy, Delta Conveyance – also known as ‘the tunnel’ – is approved under the current administration. Construction commences soon thereafter and is complete around 2037.",
+        "primary_research_importance": "Modeling Delta Conveyance  - as potential/likely adaptation - in comparison to other scenario adaptations.",
+        "adaptation": "Grey Infrastructure/tunnel conveyance",
+        "key_drivers": "Conveyance operations",
+        "key_questions": [
+            "What are the potential impacts and uncertainties in operations, particularly during prolonged drought periods?",
+            "How does this infrastructure perform over time?",
+            "What happens if salinity is allowed to vary in the Delta during extreme droughts (and what are longer term impacts)?"
+        ]
+    },
+    {
+        "name": "Eco Machine",
+        "number": "3",
+        "narrative": "Delta salinity intrusion is reduced by strategically placed green infrastructure. This infrastructure is designed to provide multiple benefits to Delta communities, including the creation of recreational, economic, and eco-cultural opportunities.",
+        "primary_research_importance": "Tests capacity of in-Delta tidal restoration to attenuate salinity and provide additional benefits (ecological, eco-cultural, recreational, community)",
+        "adaptation": "In Delta tidal restoration; Nature-based Solutions",
+        "key_drivers": "Amount, location and sequencing of In-Delta tidal restoration",
+        "key_questions": [
+            "What are the potential salinity management benefits of green infrastructure strategies like the Franks Tract Futures project?",
+            "How can these projects be designed to maximize Delta recreational, community, and eco-cultural benefits, in addition to salinity management benefits?"
+        ]
+    },
+    {
+        "name": "New Green Watershed",
+        "number": "4",
+        "narrative": "Large scale restoration is strategically phased into the Delta and beyond for salinity management and many other benefits. Restoration is combined with carbon farming/banking, wet soil agriculture and other in-Delta land use changes to reverse subsidence and transition to a regenerative green economy. Upstream meadow and floodplain restoration are included in this scenario, as is co-management and repatriation of land to indigenous communities/nations.",
+        "primary_research_importance": "Tests capacity of upstream watershed restoration as well as tidal restoration and non-tidal restoration/regenerative land uses. This scenario extends restoration strategies beyond the Delta, while also using tidal restoration modeling that will be performed for the Eco Machine Scenario Overall, tests potential for transition to a green, equitable economy, and for ecocultural restoration and sovereignty.",
+        "adaptation": "Restoration and Environmental Justice; Green Infrastrucuture; Nature-based Solutions",
+        "key_drivers": "Amount and types of upstream restoration efforts, management of subsided tracts, in combination with in Delta tidal restoration (Eco Machine)",
+
+        "key_questions": [
+            "Is a viable, regenerative green economy in the Delta and surrounding regions possible?",
+            "Can upstream meadow and floodplain restoration significantly increase water storage and water quality benefits and attenuate flood risks?",
+            "What are the optimal locations in the Delta to restore tidal processes to attenuate salinity intrusion, and how should they be phased in?",
+            "Is this scenario the most adaptable and resilient to increasing climate stressors facing the Delta and salinity management?"
+        ]
+
+    },
+    {
+        "name": "Calling on Reserves",
+        "number": "5",
+        "narrative": "Upstream dams and reservoirs are operated differently than they currently are to maximize ecological benefits and drought resiliency. These operations are combined with heavy investments in increasing water efficiency and storage across the state to reduce Delta reliance.",
+        "primary_research_importance": "Testing capacity of changes in reservoir operations and management, primarily the release and timing of flows.",
+        "adaptation": "changes in reservoir operations and protocols",
+        "key_drivers": "storage, timing and volume of freshwater flows to the Delta",
+        "key_question": [
+            "To what degree can the re-operation of dams increase drought resiliency?",
+            "What changes in dam operations are possible if water storage is maximized through reservoir expansion, groundwater replenishment, and decreased Delta water reliance?",
+            "To what extent can “natural” or functional flow regimes benefit aquatic ecosystems?",
+            "If the Sites Reservoir is built (as well as proposed dam retrofits to expand storage), how much does it actually help, and how much would this increase flexibility during drought years?"
+        ]
+    },
+    {
+        "name": "Bolster & Fortify",
+        "number": "6",
+        "narrative": "Future state investments are focused on upgrading the Delta’s infrastructure, including operable gates and augmented levees. These engineered improvements are used to re-fashion the Delta’s waterways to attenuate salinity and to protect against potential levee breaches in the deeply subsided central Delta.",
+        "primary_research_importance": "Testing capacity of in-Delta (grey) infrastructure – including barriers, operable gates and augmented levees - to attenuate salinity intrusion",
+        "adaptation": "In-Delta (grey) Infrastructure",
+        "key_drivers": "placement, type and design of infrastructure",
+        "key_questions": [
+            "Can salinity intrusion and through-Delta conveyance be effectively managed through engineered upgrades to Delta infrastructure?",
+            "How would such changes impact or benefit different communities?"
+        ]
+    }
+]

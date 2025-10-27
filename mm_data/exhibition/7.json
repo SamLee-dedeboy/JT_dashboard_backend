@@ -1,0 +1,62 @@
+[
+  {
+    "code_name": "tidal influence",
+    "parent": "Salinity Sources"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "Salinity Sources"
+  },
+  {
+    "code_name": "Flow",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "exports",
+    "parent": "Flow"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Production",
+    "parent": "Agriculture"
+  },
+  {
+    "code_name": "Ecosystem-wide changes",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Flow",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "exports",
+    "parent": "Flow"
+  },
+  {
+    "code_name": "Policy & Regulatory Environment",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "economic value of water",
+    "parent": "Policy & Regulatory Environment"
+  },
+  {
+    "code_name": "Flow",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "exports",
+    "parent": "Flow"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Production",
+    "parent": "Agriculture"
+  }
+]

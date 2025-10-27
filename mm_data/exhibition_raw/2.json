@@ -1,0 +1,136 @@
+[
+    {
+        "node": "ocean salts",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Salinity Sources",
+                "parent": "N/A"
+            },
+            {
+                "code": "Pacific Ocean",
+                "parent": "Salinity Sources"
+            }
+        ]
+    },
+    {
+        "node": "sea level rise",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "sea-level rise",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "precipitation/evaporation",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Climate change",
+                "parent": "N/A"
+            },
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "seasonal precipitation",
+                "parent": "Flow"
+            },
+            {
+                "code": "Reduce ET",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "climate change",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Climate change",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "river inputs",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "policy/water mgmt",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Policy & Regulatory Environment",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "ES river",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "population/city expansion",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Urbanization",
+                "parent": "N/A"
+            },
+            {
+                "code": "population increase",
+                "parent": "Urbanization"
+            }
+        ]
+    },
+    {
+        "node": "urban development",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Urbanization",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "agriculture",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "soil",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Salinity Sources",
+                "parent": "N/A"
+            },
+            {
+                "code": "salt accumulation",
+                "parent": "Salinity Sources"
+            }
+        ]
+    }
+]

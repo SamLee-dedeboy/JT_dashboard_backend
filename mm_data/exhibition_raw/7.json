@@ -1,0 +1,104 @@
+[
+    {
+        "node": "Tides",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "tidal influence",
+                "parent": "Salinity Sources"
+            }
+        ]
+    },
+        {
+        "node": "Agriculture Drainage",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "Salinity Sources"
+            }
+        ]
+    },
+    {
+        "node": "Export quantity",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "exports",
+                "parent": "Flow"
+            }
+        ]
+    },
+    {
+        "node": "Ag yields of crops",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            },
+            {
+                "code": "Production",
+                "parent": "Agriculture"
+            }
+        ]
+    },
+    {
+        "node": "Environmental functioning (population)",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Ecosystem-wide changes",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Export quantity (water treatment cost)",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "exports",
+                "parent": "Flow"
+            },
+            {
+                "code": "Policy & Regulatory Environment",
+                "parent": "N/A"
+            },
+            {
+                "code": "economic value of water",
+                "parent": "Policy & Regulatory Environment"
+            }
+        ]
+    },
+    {
+        "node": "Export & Reliability Ag (Ag yields, San Joaquin)",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "exports",
+                "parent": "Flow"
+            },
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            },
+            {
+                "code": "Production",
+                "parent": "Agriculture"
+            }
+        ]
+    }
+]

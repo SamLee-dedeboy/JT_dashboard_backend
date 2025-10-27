@@ -1,0 +1,776 @@
+[
+    {
+        "parent": "N/A",
+        "name": "Climate change",
+        "type": "impacts salinity",
+        "definition": "Alterations in the Earth's climate patterns due to anthropogenic activities. This includes both direct references to climate change and indirect references to its consequences, such as sea level rise and extreme weather shifts"
+    },
+    {
+        "parent": "Climate change",
+        "name": "extreme wet years",
+        "type": "impacts salinity",
+        "definition": "years characterized by extreme precipitation"
+    },
+    {
+        "parent": "Climate change",
+        "name": "extreme dry years",
+        "definition": "Drought years",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Climate change",
+        "name": "sea-level rise",
+        "definition": "increase in ocean levels",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Climate change",
+        "name": "heat waves",
+        "definition": "prolonged hot periods ",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Climate change",
+        "name": "wildfires",
+        "definition": "Wildfires",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Policy & Regulatory Environment",
+        "definition": "Laws, regulations, and government policies that shape water management, land use, environmental protections, and community rights in the Delta. Includes local, state, and federal policies, as well as regulatory agency actions and legal disputes. This also includes implicit regulatory contexts, such as permitting requirements, environmental review processes (e.g., Environmental Impact Reports), agency decisions. "
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "Bay-Delta Plan & D-1641",
+        "definition": "The Bay-Delta Plan delineates water quality standards, set into motion by the State Water Resources Control Board's Decision 1641",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "TUCP",
+        "definition": "The process and implications of Temporary Urgency Change Petitions (TUCPs), which allow for temporary modifications to water rights and flow requirements in response to drought, emergencies, or other urgent conditions.",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "current water rights",
+        "definition": "water rights/rights holders as they stand now",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "rights changes",
+        "definition": "changes to water rights and rights holders",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "politics",
+        "definition": "the political agenda of those in power",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "Federal view of water",
+        "definition": "perspective of water as property",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "Tribal representation",
+        "definition": "Tribal involvement in salinity management decision making",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "economic value of water",
+        "definition": "the monetary cost associated with water consumption",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "decision-making process",
+        "definition": "the structures, stakeholders, and processes involved in making management decisions in the Delta.",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Policy & Regulatory Environment",
+        "name": "policy changes",
+        "definition": "changes to current legislative landscape",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Structure (physical geography)",
+        "definition": "Refers to the fixed physical layout of the Delta—such as the shape, depth, elevation, or configuration of levees, channels, islands, and floodplains—that influences salinity or water dynamics."
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "bathymetry",
+        "definition": "geometry of Delta channels",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "subsidence",
+        "definition": "loss of peat soils and decrease in island elevation, often below sea-level",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "levees",
+        "definition": "structures along the edges of land that prevent flooding",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "barriers",
+        "definition": "permanent or emergency installed structures that separate areas of the Delta water",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "operable gates",
+        "definition": "structures that can be opened or closed to control the flow and direction of water within the Delta",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "tidal marsh restoration",
+        "definition": "rebuilding and rehabilitation of tidal marshes",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "restoration",
+        "definition": "general mention of restoration without specification",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "living water wall",
+        "definition": "a series of indigenous plants strategically placed in a wall-like series to attenuate salinity",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Structure (physical geography)",
+        "name": "green infrastructure & nature-based solutions",
+        "definition": "interventions that restore ecological processes and functions",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Urbanization",
+        "definition": "effects of development"
+    },
+    {
+        "parent": "Urbanization",
+        "name": "consumerism",
+        "definition": "individuals who consume Delta water",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Urbanization",
+        "name": "zoning",
+        "definition": "what kind of development is allowed to happen, and where",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Urbanization",
+        "name": "population increase",
+        "definition": "growing number of people living in CA",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Urbanization",
+        "name": "housing",
+        "definition": "construction of new housing",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Flow",
+        "definition": "The volume, timing, and distribution of water moving through the Delta, influenced by natural conditions, water management decisions, and regulatory requirements. Measured in the unit 'cfs' "
+    },
+    {
+        "parent": "Flow",
+        "name": "reservoir operations / storage",
+        "definition": "timing and amount of releases from water storage, as well as amount of water being stored",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "in-Delta diversions",
+        "definition": "water diverted for consumption within the Delta limits",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "exports",
+        "definition": "sending water outside of the Delta limits",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "seasonal precipitation",
+        "definition": "how much precipitation is experienced in a given year",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "snow pack",
+        "definition": "how much water is stored via snow in the winter, to melt and flow into the Delta in warmer months",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "State & Federal Water Projects",
+        "definition": "State & Federal Water Projects",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "tunnel",
+        "definition": "conveyance of water for export",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "environmental yield",
+        "definition": "availability of water for runoff based on dryness of soil and plants",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Flow",
+        "name": "upstream management",
+        "definition": "management of lands upstream of the Delta that will affect flow rate into the Delta",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Resource Use & Management",
+        "definition": "Conscious efforts and decisions that affect water availability, distribution, and use in the Delta. This includes both broad strategies (e.g., long-term planning or allocation policies) and localized or operational actions hat influence how water is accessed, moved, or conserved. Relevant even when the discussion is specific to one region or project, as long as it reflects intentional human control over water as a resource."
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "wetlands",
+        "definition": "general mention of wetlands, which are areas where water saturates the land either permanently or seasonally, supporting unique ecosystems of aquatic plants, animals, and microorganisms",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "conversion to wetlands",
+        "definition": "intentionally changing land from a different use into a wetland",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "tidal wetland recovery",
+        "definition": "rehabilitation of previous tidal wetlands",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "reclamation districts",
+        "definition": "local entities that determine practices for resource use",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "managed groundwater storage",
+        "definition": "intentional recharge of aquifers for underground water storage",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "farming practices",
+        "definition": "specific agricultural methods and actions",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "groundwater use",
+        "definition": "how much groundwater is consumed",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "agricultural land retirement",
+        "definition": "permanent fallowing of agricultural lands",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "agricultural water application",
+        "definition": "how much water is consumed for agricultural purposes",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Resource Use & Management",
+        "name": "water demand",
+        "definition": "overall quantity of water demanded (all uses)",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "type": "impacts salinity",
+        "name": "Salinity Sources",
+        "definition": "Salinity sources are the natural and human-influenced origins of salt and other dissolved solids that enter or accumulate in the Delta's water system, increasing salinity levels and affecting water quality for ecosystems, agriculture, and urban uses."
+    },
+    {
+        "parent": "Salinity Sources",
+        "name": "salt recycling",
+        "definition": "salts recycled in water use/rivers in Central Valley",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Salinity Sources",
+        "name": "tidal influence",
+        "definition": "tides pushing saltwater further into the Delta",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Salinity Sources",
+        "name": "Pacific Ocean",
+        "definition": "ocean as a source of salinity",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Salinity Sources",
+        "name": "salt accumulation",
+        "definition": "salt accumulation in soil gets mobilized into waterways",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Salinity Sources",
+        "name": "uncapped mines",
+        "definition": "uncapped mines in Bay Area producing pollutants",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Information Sources",
+        "type": "impacts salinity",
+        "definition": "Individuals, organizations, systems, or data sources that provide information, insights, or data relevant to water management decisions in the Delta. This includes both the presence and use of information (e.g., from agencies, models, or monitoring networks) and the absence, failure, or lack of transparency of such sources (e.g., broken gauging systems, inaccessible data, or withheld reports). Relevant when the availability, quality, or use of information—whether formal or informal—affects understanding or decision-making related to Delta conditions."
+    },
+    {
+        "parent": "Information Sources",
+        "name": "sound science",
+        "definition": "true, valid, and reliable scientific pursuits",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Information Sources",
+        "name": "traditional ecological knowledge / Indigenous knowledge",
+        "definition": "knowledge from Indigenous practices",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Information Sources",
+        "name": "cultural significance of water",
+        "definition": "what water means to different cultures",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Information Sources",
+        "name": "modeling",
+        "definition": " The outputs and results of computer-based models used to simulate water flow, salinity levels, environmental conditions, or ecological outcomes in the Delta. ",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Information Sources",
+        "name": "real-time consumptive use",
+        "definition": "understanding how much water is being consumed at any given time",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Information Sources",
+        "name": "monitoring",
+        "definition": "increasing number of water quality monitoring stations throughout the Delta",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Misc",
+        "type": "impacts salinity",
+        "definition": "consisting of content that is not covered in any of the other child codes or parent codes in this codebook"
+    },
+    {
+        "parent": "Misc",
+        "name": "invasive species",
+        "definition": "effects of non-native species in the Delta",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Misc",
+        "name": "earthquake",
+        "definition": "effects of earthquakes on Delta infrastructure",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "Misc",
+        "name": "desalination",
+        "definition": "exploring desalination options as another source of water to meet demands",
+        "type": "impacts salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Human Dimensions",
+        "type": "impacts salinity",
+        "definition": "Human dimensions of natural resources refers to the social attitudes, processes and behaviors related to how we maintain, protect, enhance and use our natural resources. This includes public perceptions, stakeholder conflict, equity concerns, political dynamics, and institutional decisions that influence resource management. "
+    },
+    {
+        "parent": "N/A",
+        "name": "Natural Climate",
+        "type": "impacts salinity",
+        "definition": "The long-term, stable patterns of weather conditions in a particular region, typically over a span of years or centuries, as determined by factors like temperature, wind, and precipitation. This includes the baseline, natural conditions of the atmosphere and environment in a given area.  Relevant when discussing the inherent, pre-existing state of a region's climate, without factoring in the shifts caused by human activity."
+    },
+    {
+        "parent": "N/A",
+        "type": "impacted by salinity",
+        "name": "Ecosystem-wide changes",
+        "definition": "occurrences of significant shifts in the natural balance of the environment, often driven by alterations in water flow, salinity levels, habitat availability, and land use, and ultimately disrupt the delicate ecological relationships that support native species and ecosystem services."
+    },
+    {
+        "parent": "N/A",
+        "type": "impacted by salinity",
+        "name": "Habitat changes",
+        "definition": "Habitat changes refer to alterations in the structure, extent, function, or quality of ecosystems in the Delta—particularly those driven by shifts in salinity, water flow, land use, or restoration activities—that affect the suitability of these environments for native and migratory species."
+    },
+    {
+        "parent": "Habitat changes",
+        "name": "Bird habitat impacts",
+        "definition": "Changes to bird habitats and flyways",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Habitat changes",
+        "name": "Fish habitat impacts",
+        "definition": "Changes to fish habitats, primarily influenced by fluctuating salinity levels, which can alter the physical and chemical conditions of aquatic environments essential for fish species.",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "HABs",
+        "type": "impacted by salinity",
+        "definition": "Rapid and excessive growth of algae in aquatic environments that produce toxins harmful to aquatic life, water quality, and human health"
+    },
+    {
+        "parent": "HABs",
+        "name": "HAB prevention",
+        "definition": "Measures to prevent HABs",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Invasive species",
+        "type": "impacted by salinity",
+        "definition": "Non-native species in a new ecosystem"
+    },
+    {
+        "parent": "Invasive species",
+        "name": "Native species disruption",
+        "definition": "Impact on native species by invasive species",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Invasive species",
+        "name": "Invasive-prevent",
+        "definition": "Measures to prevent invasive species",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Native species",
+        "type": "impacted by salinity",
+        "definition": "plant and animal species that are indigenous to the California Delta ecosystem and have evolved to thrive in its unique environmental conditions, including its salinity levels."
+    },
+    {
+        "parent": "Native species",
+        "name": "Native fish and native fish health",
+        "definition": "Native fish and Health of the native fish population",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Native species",
+        "name": "Native birds",
+        "definition": "Native birds",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Primary productivity",
+        "type": "impacted by salinity",
+        "definition": "The rate at which plants and algae in an ecosystem convert solar energy into chemical energy through photosynthesis, forming the basis of the food web."
+    },
+    {
+        "parent": "N/A",
+        "name": "Reverse dead zones",
+        "type": "impacts salinity",
+        "definition": "Finding a way to reverse dead zones in the watershed"
+    },
+    {
+        "parent": "N/A",
+        "name": "Water temperature",
+        "type": "impacts salinity",
+        "definition": "Temperature fluctuations of Delta water"
+    },
+    {
+        "parent": "N/A",
+        "name": "Water quality",
+        "type": "impacted by salinity",
+        "definition": "The characteristics of water, including chemical composition, biological health, and physical properties, that determine its safety and functionality for human, agricultural, and environmental use. Salinity of water is not included in water quality."
+    },
+    {
+        "parent": "N/A",
+        "name": "Agriculture",
+        "type": "impacted by salinity",
+        "definition": "The practices, industries, and interests related to farming, crop production, and livestock management, particularly in relation to water use, land management, and environmental impacts. This includes both the direct agricultural activities (e.g., irrigation, crop selection, and farming techniques) and the broader concerns impacting farming, such as water quality, salinity, water availability, and land degradation. Relevant when agricultural practices or concerns are tied to environmental conditions or resource management issues."
+    },
+    {
+        "parent": "Agriculture",
+        "name": "Ag economy",
+        "definition": "The economic system driven by agricultural activities",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Agriculture",
+        "name": "Crop export",
+        "definition": "Amount of crops exported",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Agriculture",
+        "name": "Farm viability",
+        "definition": "The capacity of farmland to remain productive and suitable for agriculture in the face of environmental challenges, such as increased salinity, water scarcity, and climate change.",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Agriculture",
+        "name": "Production",
+        "definition": "Agricultural yield",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Agriculture",
+        "name": "Crop Quality",
+        "definition": "Quality of yield",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Cultural resources",
+        "type": "impacts salinity",
+        "definition": "Places, artifacts, ideas, etc. that are valued by a specific culture"
+    },
+    {
+        "parent": "N/A",
+        "name": "Disadvantaged communities",
+        "type": "impacted by salinity",
+        "definition": "Well-being of members of underserved or underrepresented groups"
+    },
+    {
+        "parent": "Disadvantaged communities",
+        "name": "Inequitable distribution of impacts",
+        "definition": "Undue burdens on underserved or underrepresented communities",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Drinking water",
+        "type": "impacted by salinity",
+        "definition": "Quality, amount, and accessibility of drinking water. The mention of water has to be about drinking, not agriculture or general municipal use."
+    },
+    {
+        "parent": "N/A",
+        "name": "Economy",
+        "type": "impacted by salinity",
+        "definition": "The overall stability and sustainability of economic activities, which is heavily tied to the health and availability of water resources, which are influenced by salinity levels."
+    },
+    {
+        "parent": "N/A",
+        "name": "Fishing and Fisheries",
+        "type": "impacted by salinity",
+        "definition": "Fishing activities in the Delta, including commercial fisheries for human consumption, recreational fishing for sport or leisure, and subsistence fishing for personal or family sustenance."
+    },
+    {
+        "parent": "N/A",
+        "name": "Human Health",
+        "type": "impacted by salinity",
+        "definition": "The physical well-being of humans, which is closely tied to the quality and availability of water resources, including access to safe, clean drinking water and the overall safety of the environment."
+    },
+    {
+        "parent": "N/A",
+        "name": "Interest overrides",
+        "type": "impacts salinity",
+        "definition": "Situations where competing interests or priorities override one another, rather than aligning or reaching a consensus. This typically happens when different stakeholders (e.g., agricultural, environmental, governmental, or community groups) advocate for conflicting outcomes, and one set of interests prevails over others in decision-making processes. Relevant when the reference discusses power dynamics, decision-making struggles, or where one interest group’s priorities directly affect or negate another's, even if not explicitly described as competing interests."
+    },
+    {
+        "parent": "N/A",
+        "name": "Local surface water supply",
+        "type": "impacts salinity",
+        "definition": "Freshwater (or lack thereof, which causes drought, water starve, or lack of flow) from nearby sources—such as the Sacramento and San Joaquin Rivers, Delta tributaries, local reservoirs, and diversion canals—that is available for use within the Delta.  This code applies when the interviewee refers to local surface water flows used for municipal or agricultural use, habitat, or salinity control, or mentions reductions in flow affecting the Delta’s water balance, which impacts water export and salinity."
+    },
+    {
+        "parent": "N/A",
+        "name": "Recreation",
+        "type": "impacted by salinity",
+        "definition": "Recreational activities in the Delta"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Aesthetics enjoyment",
+        "definition": "Enjoyment of places in the Delta for viewing purposes",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Boating",
+        "definition": "Boating",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Bird watching",
+        "definition": "Bird watching",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Photography",
+        "definition": "Photography",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Recreational hiking",
+        "definition": "Recreational hiking",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Recreational hunting",
+        "definition": "Recreational hunting",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Swimming",
+        "definition": "Swimming",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Recreation",
+        "name": "Wine tasting",
+        "definition": "Wine tasting",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "EJ",
+        "type": "impacted by salinity",
+        "definition": "Issues related to the fair distribution of environmental benefits and burdens, particularly focusing on marginalized communities that may disproportionately experience negative environmental impacts."
+    },
+    {
+        "parent": "N/A",
+        "name": "Equity",
+        "type": "impacts salinity",
+        "definition": "Equity in decision-making and distribution of benefits and burdens in the Delta"
+    },
+    {
+        "parent": "N/A",
+        "name": "Flooding",
+        "type": "impacts salinity",
+        "definition": "Flooding includes both the overflow of water onto land that is typically dry, caused by natural events such as heavy rainfall, snowmelt, or tidal surges, as well as human-build systems that alter natural water flow patterns, such as levees, dams, operable gates, and flood control channels."
+    },
+    {
+        "parent": "N/A",
+        "name": "Groundwater quality",
+        "type": "impacted by salinity",
+        "definition": "Groundwater quality refers specifically to the condition of water in underground aquifers, including salinity, nutrients, and contaminants. Apply this code only when the interviewee mentions groundwater, wells, aquifers, or subsurface water explicitly."
+    },
+    {
+        "parent": "N/A",
+        "name": "Residence relocation",
+        "type": "impacted by salinity",
+        "definition": "The potential necessity for relocating residents due to natural disasters or environmental risks, such as flooding, rising sea levels, or other climate-related impacts"
+    },
+    {
+        "parent": "N/A",
+        "name": "Tourism",
+        "type": "impacted by salinity",
+        "definition": "Tourism industry"
+    },
+    {
+        "parent": "Tourism",
+        "name": "Ag tourism",
+        "definition": "Agricultrual tourism industry",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Tribal-western collaboration",
+        "type": "impacts salinity",
+        "definition": "Collaboration of knowledge from Traditional Ecological Knowledge and western sciences"
+    },
+    {
+        "parent": "N/A",
+        "name": "Tribal communities",
+        "type": "impacted by salinity",
+        "definition": "Tribal communities"
+    },
+    {
+        "parent": "Tribal communities",
+        "name": "Tribal beneficial uses",
+        "definition": "Activities practiced by Tribal communities, including ceremonies and access to cultural resources",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "Tribal communities",
+        "name": "Tribal perspectives",
+        "definition": "Inclusion of the viewpoints of Tribes",
+        "type": "impacted by salinity"
+    },
+    {
+        "parent": "N/A",
+        "name": "Way of life",
+        "type": "impacted by salinity",
+        "definition": "The distinctive patterns of living, values, and practices shared by a community or region. this includes local customs, livelihoods (such as agriculture, fishing, or water management), cultural traditions, and how communities interact with their environment"
+    },
+    {
+        "parent": "N/A",
+        "name": "Emergency declarations",
+        "type": "impacts salinity",
+        "definition": "Emergency declarations have the potential to be very impactful on the Delta"
+    },
+    {
+        "parent": "N/A",
+        "name": "Social-technical intersection",
+        "type": "impacts salinity",
+        "definition": "Need for more collaboration between social and technical sciences"
+    },
+    {
+        "parent": "N/A",
+        "name": "Reduce ET",
+        "type": "impacts salinity",
+        "definition": "Reduce evapotranspiration, desiccation, of runoff of water"
+    },
+    {
+        "parent": "N/A",
+        "name": "Science communication",
+        "type": "impacts salinity",
+        "definition": "The process of conveying scientific information and research findings to the general public in a clear, accessible, and engaging way"
+    },
+    {
+        "parent": "N/A",
+        "name": "Salinity duration in-system",
+        "type": "impacts salinity",
+        "definition": "the time span during which water within the Delta remains at certain salinity levels, either as a result of natural hydrological conditions or human interventions like water management and infrastructure. Prolonged periods of high salinity can disrupt freshwater ecosystems, damage crops, and hinder municipal water supplies, while extended periods of low salinity may alter the conditions needed for some species to thrive. The management of salinity duration is therefore vital for maintaining a balance between ecosystem health, water quality, and human activities."
+    }
+]

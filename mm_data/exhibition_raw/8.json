@@ -1,0 +1,178 @@
+[
+    {
+        "node": "Climate change",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Climate change",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "droughts",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Sea level rise",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "sea-level rise",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "Extreme heat",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "heat waves",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "Subsidence",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "subsidence",
+                "parent": "Structure (physical geography)"
+            }
+        ]
+    },
+    {
+        "node": "groundwater overexploitation",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "Ag land (build houses)",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Crop switching",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Resource Use & Management",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Crop production",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Crop yield",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            },
+            {
+                "code": "Production",
+                "parent": "Agriculture"
+            }
+        ]
+    },
+    {
+        "node": "Crop pattern",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Drinking water",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Drinking water",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Human welfare",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Human Health",
+                "parent": "N/A"
+            },
+            {
+                "code": "Disadvantaged communities",
+                "parent": "N/A"
+            },
+            {
+                "code": "Equity",
+                "parent": "N/A"
+            },
+            {
+                "code": "Way of life",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Ecosystems",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Ecosystem-wide changes",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Fisheries",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Fishing and Fisheries",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Aquatic habitat",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Habitat changes",
+                "parent": "N/A"
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+        {
+        "node": "People's understanding",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "flows",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "water exports",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "habitat",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "People+agriculture",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "Land & Soil",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "People",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Fish & Wildlife",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Native species",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Landscape",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Structure (physical geography)",
+                "parent": "N/A"
+            }
+        ]
+    }
+]

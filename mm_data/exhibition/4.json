@@ -1,0 +1,34 @@
+[
+  {
+    "code_name": "sea-level rise",
+    "parent": "Climate change"
+  },
+  {
+    "code_name": "Local surface water supply",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Habitat changes",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Structure (physical geography)",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "green infrastructure & nature-based solutions",
+    "parent": "Structure (physical geography)"
+  }
+]

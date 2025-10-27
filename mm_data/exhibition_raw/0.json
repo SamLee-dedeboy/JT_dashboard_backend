@@ -1,0 +1,50 @@
+[
+    {
+        "node": "Water that is sent from the Bay Area to the Delta",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "exports",
+                "parent": "Flow"
+            }
+        ]
+    },
+    {
+        "node": "Salinity in the Delta soil",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Salinity Sources",
+                "parent": "N/A"
+            },
+            {
+                "code": "salt accumulation",
+                "parent": "Salinity Sources"
+            }
+        ]
+    },
+    {
+        "node": "Agriculture that derives water from the Delta",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Fish in the main rivers",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Native fish and native fish health",
+                "parent": "Native species"
+            }
+        ]
+    }
+]

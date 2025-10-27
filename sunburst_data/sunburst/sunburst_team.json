@@ -1,0 +1,202 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Flow",
+      "value": 0,
+      "children": [
+        {
+          "name": "tunnel",
+          "value": 1
+        },
+        {
+          "name": "State & Federal Water Projects",
+          "value": 1
+        },
+        {
+          "name": "exports",
+          "value": 2
+        },
+        {
+          "name": "reservoir operations/storage",
+          "value": 4
+        },
+        {
+          "name": "snow pack",
+          "value": 1
+        },
+        {
+          "name": "seasonal precipitation",
+          "value": 1
+        },
+        {
+          "name": "Flow (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Misc",
+      "value": 3,
+      "children": []
+    },
+    {
+      "name": "Policy & Regulatory Environment",
+      "value": 0,
+      "children": [
+        {
+          "name": "Bay-Delta Plan & D-1641",
+          "value": 1
+        },
+        {
+          "name": "politics",
+          "value": 3
+        },
+        {
+          "name": "policy changes",
+          "value": 1
+        },
+        {
+          "name": "current water rights",
+          "value": 1
+        },
+        {
+          "name": "Policy & Regulatory Environment (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Resource Use & Management",
+      "value": 0,
+      "children": [
+        {
+          "name": "farming practices",
+          "value": 2
+        },
+        {
+          "name": "wetlands",
+          "value": 1
+        },
+        {
+          "name": "water demand",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Salinity Sources",
+      "value": 0,
+      "children": [
+        {
+          "name": "tidal influence",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Structure (physical geography)",
+      "value": 0,
+      "children": [
+        {
+          "name": "bathymetry",
+          "value": 1
+        },
+        {
+          "name": "barriers",
+          "value": 2
+        },
+        {
+          "name": "operable gates",
+          "value": 2
+        },
+        {
+          "name": "green infrastructure & nature-based solutions",
+          "value": 1
+        },
+        {
+          "name": "subsidence",
+          "value": 1
+        },
+        {
+          "name": "Structure (physical geography) (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Climate change",
+      "value": 0,
+      "children": [
+        {
+          "name": "extreme wet years",
+          "value": 2
+        },
+        {
+          "name": "extreme dry years",
+          "value": 2
+        },
+        {
+          "name": "sea-level rise",
+          "value": 1
+        },
+        {
+          "name": "Climate change (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Natural Climate",
+      "value": 5,
+      "children": []
+    },
+    {
+      "name": "Eco Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Native fish and native fish health",
+          "value": 1
+        },
+        {
+          "name": "Ecosystem-wide changes",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "value": 3,
+      "children": []
+    },
+    {
+      "name": "Human Dimensions",
+      "value": 5,
+      "children": []
+    },
+    {
+      "name": "Information Sources",
+      "value": 2,
+      "children": []
+    },
+    {
+      "name": "Human Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Social-technical intersection",
+          "value": 1
+        },
+        {
+          "name": "Science communication",
+          "value": 1
+        },
+        {
+          "name": "Inequitable distribution of impacts",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

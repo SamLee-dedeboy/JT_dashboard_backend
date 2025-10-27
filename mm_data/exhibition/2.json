@@ -1,0 +1,70 @@
+[
+  {
+    "code_name": "Salinity Sources",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Pacific Ocean",
+    "parent": "Salinity Sources"
+  },
+  {
+    "code_name": "sea-level rise",
+    "parent": "Climate change"
+  },
+  {
+    "code_name": "Climate change",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Flow",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "seasonal precipitation",
+    "parent": "Flow"
+  },
+  {
+    "code_name": "Reduce ET",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Climate change",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Local surface water supply",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Policy & Regulatory Environment",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Local surface water supply",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Urbanization",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "population increase",
+    "parent": "Urbanization"
+  },
+  {
+    "code_name": "Urbanization",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Salinity Sources",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "salt accumulation",
+    "parent": "Salinity Sources"
+  }
+]

@@ -1,0 +1,278 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Climate change",
+      "value": 0,
+      "children": [
+        {
+          "name": "extreme wet years",
+          "value": 1
+        },
+        {
+          "name": "extreme dry years",
+          "value": 2
+        },
+        {
+          "name": "sea-level rise",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Flow",
+      "value": 0,
+      "children": [
+        {
+          "name": "reservoir operations/storage",
+          "value": 3
+        },
+        {
+          "name": "seasonal precipitation",
+          "value": 1
+        },
+        {
+          "name": "State & Federal Water Projects",
+          "value": 1
+        },
+        {
+          "name": "in-Delta diversions",
+          "value": 1
+        },
+        {
+          "name": "exports",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Policy & Regulatory Environment",
+      "value": 0,
+      "children": [
+        {
+          "name": "policy changes",
+          "value": 1
+        },
+        {
+          "name": "decision-making process",
+          "value": 2
+        },
+        {
+          "name": "Tribal representation",
+          "value": 1
+        },
+        {
+          "name": "Bay-Delta Plan & D-1641",
+          "value": 1
+        },
+        {
+          "name": "current water rights",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Salinity Sources",
+      "value": 0,
+      "children": [
+        {
+          "name": "tidal influence",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Structure (physical geography)",
+      "value": 0,
+      "children": [
+        {
+          "name": "operable gates",
+          "value": 1
+        },
+        {
+          "name": "barriers",
+          "value": 2
+        },
+        {
+          "name": "levees",
+          "value": 2
+        },
+        {
+          "name": "green infrastructure & nature-based solutions",
+          "value": 2
+        },
+        {
+          "name": "tidal marsh restoration",
+          "value": 1
+        },
+        {
+          "name": "restoration",
+          "value": 1
+        },
+        {
+          "name": "Structure (physical geography) (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Human Dimensions",
+      "value": 3,
+      "children": []
+    },
+    {
+      "name": "Natural Climate",
+      "value": 2,
+      "children": []
+    },
+    {
+      "name": "Agriculture",
+      "value": 1,
+      "children": []
+    },
+    {
+      "name": "Eco Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Fish habitat impacts",
+          "value": 4
+        },
+        {
+          "name": "Ecosystem-wide changes",
+          "value": 4
+        },
+        {
+          "name": "Native fish and native fish health",
+          "value": 3
+        },
+        {
+          "name": "Native species disruption",
+          "value": 1
+        },
+        {
+          "name": "Eco Impacts (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Information Sources",
+      "value": 0,
+      "children": [
+        {
+          "name": "cultural significance of water",
+          "value": 1
+        },
+        {
+          "name": "sound science",
+          "value": 2
+        },
+        {
+          "name": "traditional ecological knowledge / Indigenous knowledge",
+          "value": 1
+        },
+        {
+          "name": "real-time consumptive use",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Human Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Boating",
+          "value": 1
+        },
+        {
+          "name": "Tribal perspectives",
+          "value": 1
+        },
+        {
+          "name": "Tribal beneficial uses",
+          "value": 1
+        },
+        {
+          "name": "Fishing and Fisheries",
+          "value": 3
+        },
+        {
+          "name": "Way of life",
+          "value": 1
+        },
+        {
+          "name": "Cultural resources",
+          "value": 1
+        },
+        {
+          "name": "Flooding",
+          "value": 2
+        },
+        {
+          "name": "Economy",
+          "value": 1
+        },
+        {
+          "name": "Social-technical intersection",
+          "value": 1
+        },
+        {
+          "name": "Tribal-western collaboration",
+          "value": 1
+        },
+        {
+          "name": "Drinking water",
+          "value": 1
+        },
+        {
+          "name": "Human Health",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Resource Use & Management",
+      "value": 0,
+      "children": [
+        {
+          "name": "wetlands",
+          "value": 2
+        },
+        {
+          "name": "tidal wetland recovery",
+          "value": 1
+        },
+        {
+          "name": "water demand",
+          "value": 1
+        },
+        {
+          "name": "Resource Use & Management (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Urbanization",
+      "value": 0,
+      "children": [
+        {
+          "name": "consumerism",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Systems Operations",
+      "value": 0,
+      "children": [
+        {
+          "name": "Salinity duration in-system",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

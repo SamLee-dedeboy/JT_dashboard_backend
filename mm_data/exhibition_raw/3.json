@@ -1,0 +1,98 @@
+[
+    {
+        "node": "Tidal habitat/floodplain (as local)",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Habitat changes",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Gate(s)/changes in management",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "operable gates",
+                "parent": "Structure (physical geography)"
+            }
+        ]
+    },
+    {
+        "node": "Freshwater inflow from upstream river",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Wildlife - salmon, sturgeon, other fish",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Native species",
+                "parent": "N/A"
+            },
+            {
+                "code": "Native fish and native fish health",
+                "parent": "Native species"
+            }
+        ]
+    },
+    {
+        "node": "Estuarine & riparian plants",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Habitat changes",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Farmers & farmworkers",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Human Dimensions",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Everyone who drinks freshwater diverted from the area",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Urbanization",
+                "parent": "N/A"
+            },
+            {
+                "code": "consumerism",
+                "parent": "Urbanization"
+            }
+        ]
+    },
+    {
+        "node": "Sea saltwater intrusion & reduced freshwater inflow",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Salinity Sources",
+                "parent": "N/A"
+            },
+            {
+                "code": "tidal influence",
+                "parent": "Salinity Sources"
+            },
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    }
+]

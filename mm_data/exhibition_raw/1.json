@@ -1,0 +1,42 @@
+[
+    {
+        "node": "Exportation of fresh water to all parts of California",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "exports",
+                "parent": "Flow"
+            }
+        ]
+    },
+    {
+        "node": "SF Bay inflows",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Salinity Sources",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Life changes (when salinity increases)",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Way of life",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Fresh water",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    }
+]

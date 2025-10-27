@@ -1,0 +1,28 @@
+{
+    "represented": [
+        "Agricultural Stakeholders",
+        "Public Government Agencies",
+        "Public Agencies",
+        "Economic Interests",
+        "Environmental Advocacy Groups",
+        "Urban Stakeholders",
+        "Cultural Heritage Preservation Organizations"
+    ],
+    "not_represented": [
+        "Residential Communities",
+        "Cultural Communities",
+        "Minority Groups",
+        "Agricultural Communities",
+        "Environmental Conservation",
+        "Other"
+    ],
+    "others_to_include": [
+        "Agricultural Stakeholders",
+        "Community and Grassroots Organizations",
+        "Minority Groups",
+        "Residential Communities",
+        "Cultural Communities",
+        "No one",
+        "International Partners"
+    ]
+}

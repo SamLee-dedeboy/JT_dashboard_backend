@@ -1,0 +1,88 @@
+[
+    {
+        "node": "Climate change",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Climate change",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Sea level rise",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "sea-level rise",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "Drought",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "extreme dry years",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "Freshwater export",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "exports",
+                "parent": "Flow"
+            }
+        ]
+    },
+    {
+        "node": "Water",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Flow",
+                "parent": "N/A"
+            },
+            {
+                "code": "Water quality",
+                "parent": "N/A"
+            },
+            {
+                "code": "Drinking water",
+                "parent": "N/A"
+            },
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            },
+            {
+                "code": "Water temperature",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Agriculture",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Agriculture",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Resources",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Resource Use & Management",
+                "parent": "N/A"
+            }
+        ]
+    }
+]

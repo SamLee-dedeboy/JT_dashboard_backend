@@ -1,0 +1,505 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Information Sources",
+      "value": 0,
+      "children": [
+        {
+          "name": "real-time consumptive use",
+          "value": 3
+        },
+        {
+          "name": "sound science",
+          "value": 14
+        },
+        {
+          "name": "cultural significance of water",
+          "value": 4
+        },
+        {
+          "name": "traditional ecological knowledge / Indigenous knowledge",
+          "value": 3
+        },
+        {
+          "name": "modeling",
+          "value": 4
+        },
+        {
+          "name": "monitoring",
+          "value": 3
+        },
+        {
+          "name": "Information Sources (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Policy & Regulatory Environment",
+      "value": 0,
+      "children": [
+        {
+          "name": "decision-making process",
+          "value": 22
+        },
+        {
+          "name": "policy changes",
+          "value": 13
+        },
+        {
+          "name": "politics",
+          "value": 14
+        },
+        {
+          "name": "current water rights",
+          "value": 7
+        },
+        {
+          "name": "rights changes",
+          "value": 7
+        },
+        {
+          "name": "TUCP",
+          "value": 3
+        },
+        {
+          "name": "economic value of water",
+          "value": 6
+        },
+        {
+          "name": "Bay-Delta Plan & D-1641",
+          "value": 7
+        },
+        {
+          "name": "Federal view of water",
+          "value": 5
+        },
+        {
+          "name": "Tribal representation",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Resource Use & Management",
+      "value": 0,
+      "children": [
+        {
+          "name": "water demand",
+          "value": 17
+        },
+        {
+          "name": "groundwater use",
+          "value": 2
+        },
+        {
+          "name": "farming practices",
+          "value": 8
+        },
+        {
+          "name": "reclamation districts",
+          "value": 1
+        },
+        {
+          "name": "agricultural land retirement",
+          "value": 2
+        },
+        {
+          "name": "wetlands",
+          "value": 6
+        },
+        {
+          "name": "tidal wetland recovery",
+          "value": 3
+        },
+        {
+          "name": "agricultural water application",
+          "value": 7
+        },
+        {
+          "name": "conversion to wetlands",
+          "value": 1
+        },
+        {
+          "name": "Resource Use & Management (general)",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Human Dimensions",
+      "value": 22,
+      "children": []
+    },
+    {
+      "name": "Flow",
+      "value": 0,
+      "children": [
+        {
+          "name": "State & Federal Water Projects",
+          "value": 21
+        },
+        {
+          "name": "in-Delta diversions",
+          "value": 6
+        },
+        {
+          "name": "environmental yield",
+          "value": 11
+        },
+        {
+          "name": "tunnel",
+          "value": 5
+        },
+        {
+          "name": "seasonal precipitation",
+          "value": 10
+        },
+        {
+          "name": "snow pack",
+          "value": 7
+        },
+        {
+          "name": "upstream management",
+          "value": 11
+        },
+        {
+          "name": "exports",
+          "value": 16
+        },
+        {
+          "name": "reservoir operations/storage",
+          "value": 21
+        },
+        {
+          "name": "Flow (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Human Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Groundwater quality",
+          "value": 6
+        },
+        {
+          "name": "Inequitable distribution of impacts",
+          "value": 11
+        },
+        {
+          "name": "Way of life",
+          "value": 19
+        },
+        {
+          "name": "Science communication",
+          "value": 2
+        },
+        {
+          "name": "Flooding",
+          "value": 10
+        },
+        {
+          "name": "Equity",
+          "value": 8
+        },
+        {
+          "name": "EJ",
+          "value": 6
+        },
+        {
+          "name": "Social-technical intersection",
+          "value": 9
+        },
+        {
+          "name": "Tribal perspectives",
+          "value": 5
+        },
+        {
+          "name": "Tribal-western collaboration",
+          "value": 3
+        },
+        {
+          "name": "Drinking water",
+          "value": 10
+        },
+        {
+          "name": "Interest overrides",
+          "value": 14
+        },
+        {
+          "name": "Cultural resources",
+          "value": 3
+        },
+        {
+          "name": "Economy",
+          "value": 16
+        },
+        {
+          "name": "Human Health",
+          "value": 9
+        },
+        {
+          "name": "Fishing and Fisheries",
+          "value": 7
+        },
+        {
+          "name": "Recreation",
+          "value": 3
+        },
+        {
+          "name": "Boating",
+          "value": 1
+        },
+        {
+          "name": "Tribal beneficial uses",
+          "value": 2
+        },
+        {
+          "name": "Aesthetics enjoyment",
+          "value": 1
+        },
+        {
+          "name": "Emergency declarations",
+          "value": 2
+        },
+        {
+          "name": "Human Impacts (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Structure (physical geography)",
+      "value": 0,
+      "children": [
+        {
+          "name": "levees",
+          "value": 9
+        },
+        {
+          "name": "restoration",
+          "value": 6
+        },
+        {
+          "name": "barriers",
+          "value": 10
+        },
+        {
+          "name": "subsidence",
+          "value": 2
+        },
+        {
+          "name": "operable gates",
+          "value": 2
+        },
+        {
+          "name": "green infrastructure & nature-based solutions",
+          "value": 6
+        },
+        {
+          "name": "tidal marsh restoration",
+          "value": 2
+        },
+        {
+          "name": "bathymetry",
+          "value": 2
+        },
+        {
+          "name": "Structure (physical geography) (general)",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Misc",
+      "value": 0,
+      "children": [
+        {
+          "name": "desalination",
+          "value": 1
+        },
+        {
+          "name": "Misc (general)",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Salinity Sources",
+      "value": 0,
+      "children": [
+        {
+          "name": "uncapped mines",
+          "value": 1
+        },
+        {
+          "name": "tidal influence",
+          "value": 13
+        },
+        {
+          "name": "salt accumulation",
+          "value": 6
+        },
+        {
+          "name": "salt recycling",
+          "value": 3
+        },
+        {
+          "name": "Pacific Ocean",
+          "value": 2
+        },
+        {
+          "name": "Salinity Sources (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Urbanization",
+      "value": 0,
+      "children": [
+        {
+          "name": "population increase",
+          "value": 3
+        },
+        {
+          "name": "zoning",
+          "value": 1
+        },
+        {
+          "name": "housing",
+          "value": 1
+        },
+        {
+          "name": "consumerism",
+          "value": 9
+        },
+        {
+          "name": "Urbanization (general)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Eco Impacts",
+      "value": 0,
+      "children": [
+        {
+          "name": "Ecosystem-wide changes",
+          "value": 23
+        },
+        {
+          "name": "Fish habitat impacts",
+          "value": 13
+        },
+        {
+          "name": "Native fish and native fish health",
+          "value": 15
+        },
+        {
+          "name": "Native birds",
+          "value": 2
+        },
+        {
+          "name": "HABs",
+          "value": 4
+        },
+        {
+          "name": "Native species disruption",
+          "value": 4
+        },
+        {
+          "name": "Primary productivity",
+          "value": 1
+        },
+        {
+          "name": "HAB prevention",
+          "value": 2
+        },
+        {
+          "name": "Bird habitat impacts",
+          "value": 2
+        },
+        {
+          "name": "Eco Impacts (general)",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "value": 0,
+      "children": [
+        {
+          "name": "Production",
+          "value": 13
+        },
+        {
+          "name": "Ag economy",
+          "value": 14
+        },
+        {
+          "name": "Farm viability",
+          "value": 13
+        },
+        {
+          "name": "Crop Quality",
+          "value": 1
+        },
+        {
+          "name": "Crop export",
+          "value": 1
+        },
+        {
+          "name": "Agriculture (general)",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Climate change",
+      "value": 0,
+      "children": [
+        {
+          "name": "sea-level rise",
+          "value": 15
+        },
+        {
+          "name": "extreme dry years",
+          "value": 20
+        },
+        {
+          "name": "extreme wet years",
+          "value": 5
+        },
+        {
+          "name": "Climate change (general)",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Systems Operations",
+      "value": 0,
+      "children": [
+        {
+          "name": "Salinity duration in-system",
+          "value": 8
+        },
+        {
+          "name": "Reduce ET",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Natural Climate",
+      "value": 4,
+      "children": []
+    }
+  ]
+}

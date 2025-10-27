@@ -1,0 +1,76 @@
+[
+    {
+        "node": "Sea level rise",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "sea-level rise",
+                "parent": "Climate change"
+            }
+        ]
+    },
+    {
+        "node": "Loss of fresh water availability",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Local surface water supply",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "Management",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Wildlife habitats",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "Habitat changes",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "Farmers",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+        {
+        "node": "Species",
+        "classification": "impacted by salinity",
+        "codes": [
+            {
+                "code": "TBD",
+                "parent": "N/A"
+            }
+        ]
+    },
+    {
+        "node": "Native based solutions",
+        "classification": "impacts salinity",
+        "codes": [
+            {
+                "code": "Structure (physical geography)",
+                "parent": "N/A"
+            },
+            {
+                "code": "green infrastructure & nature-based solutions",
+                "parent": "Structure (physical geography)"
+            }
+        ]
+    }
+]

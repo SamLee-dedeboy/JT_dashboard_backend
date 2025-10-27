@@ -1,0 +1,82 @@
+[
+  {
+    "code_name": "Climate change",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "sea-level rise",
+    "parent": "Climate change"
+  },
+  {
+    "code_name": "heat waves",
+    "parent": "Climate change"
+  },
+  {
+    "code_name": "subsidence",
+    "parent": "Structure (physical geography)"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "TBD",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Resource Use & Management",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Production",
+    "parent": "Agriculture"
+  },
+  {
+    "code_name": "Agriculture",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Drinking water",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Human Health",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Disadvantaged communities",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Equity",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Way of life",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Ecosystem-wide changes",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Fishing and Fisheries",
+    "parent": "N/A"
+  },
+  {
+    "code_name": "Habitat changes",
+    "parent": "N/A"
+  }
+]
